@@ -24,9 +24,9 @@ This is the second python file responsible for calculating hourly frequencies wi
 
 ```python taskTwo.py```
 
-This program will output two things. In the command line a frequency table for the hourly data and a bar chart for this table. 
+This program will output two things. In the command line a frequency table for the hourly data and in a seperate window a bar chart for this table. 
 
-Images for both outputs can be found within the repository titled (**2019_Table_Frequencies.png** and **2019_Bar_Frequencies.png**)
+Images for both outputs can be foundm, titled **2019_Table_Frequencies.png** and **2019_Bar_Frequencies.png**.
 
 ## Report.pdf
 This is a pdf file documenting my development and analysis for the two aforementioned tasks. This file can be opened in any pdf viewer of your choosing.
