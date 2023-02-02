@@ -2,7 +2,7 @@
 
 Within this repository you will find my attempt at the flight hourly volume exam.
 
-My attempt was conducted within a python virtual environment. If you wish to test any of the files, please ensure your start the environment. To do so please clone the files, and then within command line, locate the files and type 
+My attempt was conducted within a python virtual environment. If you wish to test any of the files, please ensure you start the environment. To do so please clone the files, and then within command line, locate the files and type 
 
 ```Scripts\activate```
 
@@ -20,7 +20,7 @@ This program utilises the OpenSky API to download all of the flight data from He
 This flight data will be logged in the **2018_Departures_Arrivals_Heathrow.csv** file. This file can be opened in Microsoft Excel or any spreadsheet formatting software of your choice. 
 
 ## taskTwo.py
-This is the second python file responsible for caclulating hourly frequencies within the 2019 flight data file sent to me in the challenge (**airport_EGLL_2019_flights**). To run this file please type in the command line:
+This is the second python file responsible for calculating hourly frequencies within the 2019 flight data file sent to me in the challenge (**airport_EGLL_2019_flights**). To run this file please type in the command line:
 
 ```python taskTwo.py```
 
